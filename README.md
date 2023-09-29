@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-<img src="https://github-readme-stats.vercel.app/api?username=wbccb&show_icons=true" alt="logo" height="160" align="right" />
-
 
 源码爱好者，已经完成vue2和vue3的源码解析+webpack5整体流程源码+vite4开发环境核心流程源码+koa2源码
 
