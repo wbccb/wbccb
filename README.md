@@ -10,15 +10,15 @@
 
 #### 🌱  2023年正在做的事情(博客): 
 
-- 研究富文本相关的[ProseMirror源码](https://github.com/prosemirror)和[TipTap源码](https://github.com/ueberdosis/tiptap)
-- [React18源码](https://github.com/facebook/react)
-- [antvis/G2源码](https://github.com/antvis/G2)
+- 富文本相关的开源库[ProseMirror源码](https://github.com/prosemirror)和[TipTap源码](https://github.com/ueberdosis/tiptap)（进行中）
+- [React18源码](https://github.com/facebook/react)(等待进行)
+- [antvis/G2源码](https://github.com/antvis/G2)(等待进行)
 
 #### 🔥  2023年正在做的事情(个人项目和开源): 
 
-- [基于Koa2的后台服务](https://github.com/wbccb/BG-CMS-Koa2)
-- [基于Vue3的PC端管理系统](https://github.com/wbccb/mini-Vue-admin)
-- [基于React18的PC端管理系统](https://github.com/wbccb/BG-CMS-React)
+- [基于Koa2的后台服务](https://github.com/wbccb/BG-CMS-Koa2)(开发中)
+- [基于Vue3的PC端管理系统](https://github.com/wbccb/mini-Vue-admin)(开发中)
+- [基于React18的PC端管理系统](https://github.com/wbccb/BG-CMS-React)(待开发)
 
 > :muscle: 努力参与可视化相关的开源项目
 
