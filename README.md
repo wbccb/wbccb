@@ -12,7 +12,6 @@
 
 - 富文本相关的开源库[ProseMirror源码](https://github.com/prosemirror)和[TipTap源码](https://github.com/ueberdosis/tiptap)（进行中）
 - [React18源码](https://github.com/facebook/react)(等待进行)
-- [antvis/G2源码](https://github.com/antvis/G2)(等待进行)
 
 #### 🔥  2023年正在做的事情(个人项目和开源): 
 
