@@ -8,21 +8,23 @@
 
 
 
-#### 🌱  2023年正在做的事情(博客): 
+#### 🌱  2024年正在做的事情(博客): 
 
-- 富文本相关的开源库[ProseMirror源码](https://github.com/prosemirror)和[TipTap源码](https://github.com/ueberdosis/tiptap)（进行中）
-- [React18源码](https://github.com/facebook/react)(等待进行)
+- [React18源码](https://github.com/facebook/react)
+- 富文本相关的开源库[ProseMirror源码](https://github.com/prosemirror)和[TipTap源码](https://github.com/ueberdosis/tiptap)
 
-#### 🔥  2023年正在做的事情(个人项目和开源): 
+> :muscle: 努力参与可视化相关的开源项目
+
+#### 🔥  2024年正在做的事情(个人项目和开源): 
 
 - [基于Koa2的后台服务](https://github.com/wbccb/BG-CMS-Koa2)(开发中)
 - [基于Vue3的PC端管理系统](https://github.com/wbccb/mini-Vue-admin)(开发中)
 - [基于React18的PC端管理系统](https://github.com/wbccb/BG-CMS-React)(待开发)
 
-> :muscle: 努力参与可视化相关的开源项目
 
 
-#### 🧔  2024年计划(博客)
+
+#### 🧔  2025年计划(博客)
 - 跨端技术原理（微信小程序源码）
 - 微前端原理
 - 跨端技术原理（uni-app跨端技术源码、React Native跨端技术源码、Taro跨端原理）
