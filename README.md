@@ -12,7 +12,6 @@
 
 - [React18源码](https://github.com/facebook/react)
 - 富文本相关的开源库[ProseMirror源码](https://github.com/prosemirror)和[TipTap源码](https://github.com/ueberdosis/tiptap)
-- excel相关的开源库[Luckysheet源码](https://github.com/wbccb/Luckysheet)和[LuckyExcel源码](https://github.com/dream-num/Luckyexcel)
 
 
 
