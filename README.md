@@ -7,10 +7,12 @@
 具体详情可以点击[个人博客详细地址](https://github.com/wbccb/Frontend-Articles)
 
 
-
 #### 🌱  2024年正在做的事情(博客): 
 
-- [React18源码](https://github.com/facebook/react)
+- [React18源码](https://github.com/wbccb/mini-react)
 
 
+#### 🌱  2024年正在做的事情(自己的开源作品): 
 
+- [vue版本的虚拟Tree](https://github.com/wbccb/el-virtual-tree)
+- [基于canvas的电子表格预览](https://github.com/wbccb/sp-spreadsheet)
