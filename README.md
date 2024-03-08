@@ -12,7 +12,7 @@
 - [React18源码](https://github.com/wbccb/mini-react)
 
 
-#### 🌱  2024年正在做的事情(自己的开源作品): 
+#### 🌱  2024年正在做的事情: 
 
 - [vue版本的虚拟Tree](https://github.com/wbccb/el-virtual-tree)
 - [基于canvas的电子表格预览](https://github.com/wbccb/sp-spreadsheet)
