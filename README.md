@@ -17,10 +17,8 @@
 - [React18源码](https://github.com/wbccb/mini-react)
 - [大模型相关知识学习](https://github.com/wbccb/llm-study)
 
-
-
 #### 🌱  2024年正在做的事情(项目): 
 
-- [vue版本的虚拟Tree](https://github.com/wbccb/el-virtual-tree)
-- [基于canvas的电子表格预览](https://github.com/wbccb/canvas-web3D/tree/main/canvas/mini-project/sp-spreadsheet)
-- [基于canvas的白板](https://github.com/wbccb/canvas-web3D/tree/main/canvas/mini-project/mini-whiteboard)
+- 富文本编辑器
+- 电子表格
+> 后续：基于canvas的白板
